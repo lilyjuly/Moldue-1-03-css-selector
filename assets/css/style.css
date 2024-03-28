@@ -1,0 +1,28 @@
+/* TODO: This is text size! */
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+/* TODO: This is body background! */
+body {
+    background-color: lemonchiffon;
+}
+/* TODO: this is header & footer. */
+header,
+footer {
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    color: #f0f0f0;
+    background-color: blue;
+}
+figure {
+    width: 200px;
+    background-color: #f0f0f0;
+}
+/* TODO: this is weight */
+.a {
+    font-weight: bolder;
+}
+#contect-id {
+    background-color: #f0f0f0;
+}
